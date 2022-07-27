@@ -39,7 +39,7 @@ To preprocess:
 To train:
 
   ```sh
-  python train.py --proc_path data/dataset_name.h5 --save_path cls/model_state_name.pth -n num_epochs -b batch_size
+  python train.py --proc_path data/dataset_name.h5 --save_path cls -n num_epochs -b batch_size
   ```
 ## § Contributing
 
